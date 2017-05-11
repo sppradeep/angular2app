@@ -1,4 +1,5 @@
 Create an application with Angular2 with the following capabilities:
+---------------------------------------------------------------------
 
 1 text box, 1 search button
 
@@ -18,6 +19,7 @@ Store a cookie in the Browser
 
 
 Assumption:
+-----------
 
 Create a mock service to render the json for both suggestions and results. The json must contain a body with meta-data and result section. 
 
